@@ -74,4 +74,4 @@ The app calculates the exact stake split for your chosen total so the payout is 
 
 ## Disclaimer
 
-For informational and educational purposes only. Odds change rapidly — verify before placing any bets. Gamble responsibly and within your local laws.
+For informational and educational purposes only. Odds change rapidly; verify before placing any bets. Gamble responsibly and within your local laws.
