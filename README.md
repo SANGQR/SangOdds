@@ -1,4 +1,4 @@
-# SangOdds — Sports Arbitrage Finder
+# SangOdds - Sports Arbitrage Finder
 
 A PySide6 desktop app that fetches real-time sports betting odds from multiple bookmakers and surfaces arbitrage opportunities across NBA, MLB, NFL, and NHL.
 
